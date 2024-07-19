@@ -1,0 +1,14 @@
+/node_modules
+
+# Frontend
+
+frontend/node_modules
+frontend/dist
+frontend/out
+frontend/.DS_Store
+frontend/*.log*
+
+# Backend
+
+backend/node_modules
+backend/dist
