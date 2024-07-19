@@ -24,7 +24,7 @@ $ npm run dev
 
 ### Build
 
-````bash
+```bash
 # For windows
 $ npm run build:win
 
@@ -37,7 +37,6 @@ $ npm run build:linux
 ```
 
 ### Backend
-
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
@@ -71,7 +70,7 @@ $ npm run build:linux
 
 ```bash
 $ npm install
-````
+```
 
 ## Running the app
 
@@ -112,8 +111,3 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
-
-```
-
-
-```
